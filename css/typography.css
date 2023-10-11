@@ -59,3 +59,32 @@
   font-family: Chakra Petch;
   color: white;
 }
+
+.page-two-content {
+  color: white;
+  text-align: left;
+  padding-top: 1rem;
+  padding-left: 3rem;
+  padding-right: 3rem;
+  line-height: 2rem;
+}
+
+.page-two-content h1 {
+  font-family: Chakra Petch;
+  font-size: 40px;
+}
+
+.page-two-content h2 {
+  font-family: Chakra Petch;
+  font-size: 26px;
+}
+
+.page-two-content h3 {
+  font-family: Play;
+  font-size: 20px;
+}
+
+.page-two-content p {
+  font-family: Roboto;
+  font-size: 18px;
+}
