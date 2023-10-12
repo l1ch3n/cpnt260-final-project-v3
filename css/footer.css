@@ -1,13 +1,9 @@
 /* Container holding the image and the text */
 .footer-container {
-  position: relative;
   padding-top: 2rem;
 }
 /* Centered text */
 .footer-text {
   position: absolute;
-  top: 50%;
-  left: 25%;
-  transform: translate(-50%, -50%);
 }
 

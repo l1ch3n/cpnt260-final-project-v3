@@ -1,10 +1,9 @@
-# cpnt260-final-project-v3
-Third time's the charm
+# CPNT-260 - Web Page Construction Fundamentals
 
-# cpnt260-final-project-2.0
-I severely broke the first one ._.
+## Final Project - Three Page Website
+ cpnt260-final-project-v3
 
-# cpnt260-final-project
+*By Nicole Shukin*
 
 ## Attributions:
 
