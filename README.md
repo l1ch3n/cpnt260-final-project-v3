@@ -24,9 +24,6 @@ shadow glow effect hero section - https://developer.mozilla.org/en-US/docs/Web/C
 
 text over image for footer - https://www.w3schools.com/howto/howto_css_image_text.asp
 
-
-Meet Tol, a nature-loving warforged cleric in a dystopian future hellscape
-
 link to lower on same page html - https://www.computerhope.com/issues/ch000049.htm#id
 
 flicker - https://codepen.io/o-l-e/pen/VvbvPZ
