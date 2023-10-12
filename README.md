@@ -10,6 +10,11 @@ I severely broke the first one ._.
 
 night city photo - Leonardo AI
 
+additional photos from pexels - get name
+
+my photo ._.
+(ps - Tony the logo on the last assignment was mine I made it in figma that's why there was no attribution TT_TT)
+
 nav bar and hero section - code from one 260 assignment 3 & 4
 
 nav bar gradient - https://developer.mozilla.org/en-US/docs/Web/CSS/gradient/linear-gradient
@@ -30,3 +35,9 @@ flicker - https://codepen.io/o-l-e/pen/VvbvPZ
 neon - https://css-tricks.com/how-to-create-neon-text-with-css/
 
 icones - https://codepen.io/Krishnaa_Gupta/pen/MWoRqmr
+
+spell icons - https://kdrn.itch.io/ability-icons
+
+grid gallery - https://www.w3schools.com/css/css_image_gallery.asp
+
+nav bar - https://www.w3schools.com/howto/howto_js_topnav.asp
