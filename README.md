@@ -1,7 +1,7 @@
 # CPNT-260 - Web Page Construction Fundamentals
 
-## Final Project - Three Page Website
- cpnt260-final-project-v3
+## Final Project - Three-Page Website
+ (aka: **cpnt260-final-project-v3**)
 
 *By Nicole Shukin*
 
