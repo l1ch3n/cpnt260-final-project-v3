@@ -27,8 +27,7 @@ nav a:hover {
 }
 
 nav a.active {
-  background-color: rgba(255, 255, 255, 0.303);
-  max-width: 5rem;
+  color: black;
 }
 
 @media (width > 50rem) {
